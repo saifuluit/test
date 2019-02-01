@@ -15,4 +15,4 @@ public function productStore(Request $request)
     	return redirect()->back();
     }
 
-    //nn
+   anothr one
