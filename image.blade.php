@@ -14,5 +14,3 @@ public function productStore(Request $request)
     	$product->save();
     	return redirect()->back();
     }
-
-   anothr one
